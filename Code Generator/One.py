@@ -7,6 +7,6 @@ while b<100:
     print(a, end=" ")
     c=a+b
     a,b=b,c
-print() #endline
+print()#endline
 
 print('This is python version {}'.format(platform.python_version()))
